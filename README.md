@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Christian Luppi, an Italian developer born in 2004.
 
-<!--
-**luppichristian/luppichristian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 My skills:
+- ⚙️ C / C++ game engine and systems programming
+- 🌐 Backend and frontend web development
+- 🗄️ Database design and management
+- 🚀 Performance-oriented, low-level architecture
+- 🤖 Agentic AI–assisted development workflows
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects:
+- **CryptoDashboardPlus** (https://cryptodashboardplus.com/)  
+  💹 A crypto dashboard to track wallets, exchanges, DeFi positions, and NFTs.
+- **Unnamed Private Game Engine**  
+  🎮 A custom-built C/C++ 2D pixel art game engine, written from scratch, with proprietary tooling and a strong focus on performance.
