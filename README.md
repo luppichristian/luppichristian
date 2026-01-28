@@ -1,4 +1,4 @@
-# Hi, I'm Christian Luppi, an Italian developer born in 2004.
+## Hi, I'm Christian Luppi, an Italian developer born in 2004.
 
 ## 💻 My skills:
 - ⚙️ C / C++ game engine and systems programming
