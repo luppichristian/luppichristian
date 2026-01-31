@@ -8,9 +8,9 @@
 - Agentic AI–assisted development workflows
 
 ## 📂 Projects:
-- **CryptoDashboardPlus** (https://cryptodashboardplus.com/)  
+- [CryptoDashboardPlus](https://cryptodashboardplus.com/):<br>
   A crypto dashboard to track wallets, exchanges, DeFi positions, and NFTs.
-- **xccmeta** (https://github.com/luppichristian/xccmeta)  
+- [xccmeta](https://github.com/luppichristian/xccmeta):<br>
   A static C/C++ language parser designed for code preprocessing and build-step tooling.
-- **Unnamed Private Game Engine**  
+- [Unnamed Private Game Engine]():<br>
   A custom-built C/C++ 2D pixel art game engine, written from scratch, with proprietary tooling and a strong focus on performance.
