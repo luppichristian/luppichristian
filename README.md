@@ -13,7 +13,7 @@
 - [xccmeta](https://github.com/luppichristian/xccmeta):<br>
   A static C/C++ language parser designed for code preprocessing and build-step tooling.
 - [olib](https://github.com/luppichristian/olib):<br>
-  A C library for serializing structured data across multiple formats (JSON, YAML, XML, binary, etc.) with seamless conversion between them
+  A C library for serializing structured data across multiple formats (JSON, YAML, XML, etc.) with seamless conversion between them.
 - [nshader](https://github.com/luppichristian/nshader)<br>
   A custom portable shader format based on SDL3_shadercross compiled shaders.
 - [Unnamed Private Game Engine]():<br>
