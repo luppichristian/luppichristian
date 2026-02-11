@@ -12,6 +12,8 @@
   A crypto dashboard to track wallets, exchanges, DeFi positions, and NFTs.
 - [xccmeta](https://github.com/luppichristian/xccmeta):<br>
   A static C/C++ language parser designed for code preprocessing and build-step tooling.
+- [libmath2](https://github.com/luppichristian/libmath2):<br>
+  C/C++ math library for basic 2d and 3d operations.
 - [olib](https://github.com/luppichristian/olib):<br>
   A C library for serializing structured data across multiple formats (JSON, YAML, XML, etc.) with seamless conversion between them.
 - [nshader](https://github.com/luppichristian/nshader)<br>
