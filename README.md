@@ -22,4 +22,6 @@
   A custom-built C/C++ 2D pixel art game engine, written from scratch, with proprietary tooling and a strong focus on performance.
 - [claude_prompts](https://github.com/luppichristian/claude_prompts)<br>
   Reusable prompts for Claude Code that i find useful.
+- [Gamedev Resources](https://github.com/luppichristian/gamedev_resources)<br>
+  Links to programming resources websites / articles that I found useful to learn low level gamedev from scratch in C/C++
 
