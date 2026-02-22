@@ -10,6 +10,8 @@
 ## Projects:
 - [CryptoDashboardPlus](https://cryptodashboardplus.com/):<br>
   A crypto dashboard to track wallets, exchanges, DeFi positions, and NFTs.
+- [GameTest](https://github.com/luppichristian/GameTest):<br>
+  Record/replay testing framework for C/C++ games. Deterministic input capture and injection for automated testing.
 - [xccmeta](https://github.com/luppichristian/xccmeta):<br>
   A static C/C++ language parser designed for code preprocessing and build-step tooling.
 - [libmath2](https://github.com/luppichristian/libmath2):<br>
