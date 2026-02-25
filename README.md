@@ -1,21 +1,21 @@
 ## Hi, I'm Christian Luppi, an Italian developer born in 2004.
 
 ## Skills:
-- 🔹**Languages**:<br>
+- **Languages**:<br>
   C, C++, GLSL, HLSL, Python, JavaScript, SQL, HTML, TypeScript
-- 🔹**Graphics Programming**:<br>
+- **Graphics Programming**:<br>
   OpenGL, Vulkan, DirectX, SDL3 GPU, bgfx, Modern GPU pipelines, Shader development, Real-time rendering architecture
-- 🔹**Engine & Systems Programming**:<br>
+- **Engine & Systems Programming**:<br>
   Custom game engine development in C, Multithreaded systems, Low-level architecture, Memory and cache-efficient design
-- 🔹**Performance Engineering**:<br>
+- **Performance Engineering**:<br>
   SIMD optimization, CPU and GPU profiling, Frame time optimization, Data-oriented design
-- 🔹**Concurrency & Parallelism**:<br>
+- **Concurrency & Parallelism**:<br>
   Multithreaded programming, Task-based systems, Sync primitives, High-performance runtime systems
-- 🔹**Tools & Toolchains**:<br>
+- **Tools & Toolchains**:<br>
   RenderDoc, Tracy, CMake, Premake, Visual Studio, VS Code, Clang, GCC, MSVC, GPU debugging and profiling
-- 🔹**Web & Backend**:<br>
+- **Web & Backend**:<br>
   Full-stack web development, Database design, Backend architecture
-- 🔹**AI-Assisted Development**:<br>
+- **AI-Assisted Development**:<br>
   Code generation pipelines, Automated tooling, Agent-assisted workflows, Developer productivity systems
 
 ## Projects:
