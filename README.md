@@ -2,9 +2,10 @@
 
 ## My skills:
 - C / C++ game engine and systems programming
+- Graphics Programming using GPU APIs: OpenGL, DirectX, Vulkan
 - Backend and frontend web development
 - Database design and management
-- Performance-oriented, low-level architecture
+- Performance-oriented, low-level architecture (SIMD, Multithreading)
 - Agentic AI–assisted development workflows
 
 ## Projects:
