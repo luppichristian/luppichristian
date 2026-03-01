@@ -38,3 +38,4 @@
 - [Gamedev Resources](https://github.com/luppichristian/gamedev_resources)<br>
   Links to programming resources websites / articles that I found useful to learn low level gamedev from scratch in C/C++
 
+If you want to see more here's my youtube [channel](https://www.youtube.com/@christianluppi)!
