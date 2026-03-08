@@ -19,18 +19,20 @@
   Code generation pipelines, Automated tooling, Agent-assisted workflows, Developer productivity systems
 
 ## Projects:
-- [CryptoDashboardPlus](https://cryptodashboardplus.com/):<br>
-  A crypto dashboard to track wallets, exchanges, DeFi positions, and NFTs.
 - [GameTest](https://github.com/luppichristian/GameTest):<br>
   Record/replay testing framework for C/C++ games. Deterministic input capture and injection for automated testing.
 - [xccmeta](https://github.com/luppichristian/xccmeta):<br>
   A static C/C++ language parser designed for code preprocessing and build-step tooling.
+- [based](https://github.com/luppichristian/based):<br>
+  My own personal base layer for C projects on windows, linux macos platforms.
 - [libmath2](https://github.com/luppichristian/libmath2):<br>
   C/C++ math library for basic 2d and 3d operations.
 - [olib](https://github.com/luppichristian/olib):<br>
   A C library for serializing structured data across multiple formats (JSON, YAML, XML, etc.) with seamless conversion between them.
 - [nshader](https://github.com/luppichristian/nshader)<br>
   A custom portable shader format based on SDL3_shadercross compiled shaders.
+- [CryptoDashboardPlus](https://cryptodashboardplus.com/):<br>
+  A crypto dashboard to track wallets, exchanges, DeFi positions, and NFTs.
 - [Unnamed Private Game Engine]():<br>
   A custom-built C/C++ 2D pixel art game engine, written from scratch, with proprietary tooling and a strong focus on performance.
 - [claude_prompts](https://github.com/luppichristian/claude_prompts)<br>
