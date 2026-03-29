@@ -40,4 +40,8 @@
 - [Gamedev Resources](https://github.com/luppichristian/gamedev_resources)<br>
   Links to programming resources websites / articles that I found useful to learn low level gamedev from scratch in C/C++
 
+## Released Tools:
+- [Win32 Input Tester](https://christian-luppi.itch.io/win32-input-tester):<br>
+  Diagnostics tool for Windows that lets you see how input is actually delivered to a Win32 app.
+
 If you want to see more here's my youtube [channel](https://www.youtube.com/@christianluppi)!
