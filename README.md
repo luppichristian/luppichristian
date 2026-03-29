@@ -21,6 +21,8 @@
 ## Released Tools:
 - [Win32 Input Tester](https://christian-luppi.itch.io/win32-input-tester):<br>
   Diagnostics tool for Windows that lets you see how input is actually delivered to a Win32 app.
+- [GFX Support View](https://christian-luppi.itch.io/gfx-support-view):<br>
+  Desktop utility for inspecting your system’s graphics api support in one place.
 
 ## Projects:
 - [GameTest](https://github.com/luppichristian/GameTest):<br>
