@@ -18,6 +18,10 @@
 - **AI-Assisted Development**:<br>
   Code generation pipelines, Automated tooling, Agent-assisted workflows, Developer productivity systems
 
+## Released Tools:
+- [Win32 Input Tester](https://christian-luppi.itch.io/win32-input-tester):<br>
+  Diagnostics tool for Windows that lets you see how input is actually delivered to a Win32 app.
+
 ## Projects:
 - [GameTest](https://github.com/luppichristian/GameTest):<br>
   Record/replay testing framework for C/C++ games. Deterministic input capture and injection for automated testing.
@@ -39,9 +43,5 @@
   Reusable prompts for Claude Code that i find useful.
 - [Gamedev Resources](https://github.com/luppichristian/gamedev_resources)<br>
   Links to programming resources websites / articles that I found useful to learn low level gamedev from scratch in C/C++
-
-## Released Tools:
-- [Win32 Input Tester](https://christian-luppi.itch.io/win32-input-tester):<br>
-  Diagnostics tool for Windows that lets you see how input is actually delivered to a Win32 app.
 
 If you want to see more here's my youtube [channel](https://www.youtube.com/@christianluppi)!
