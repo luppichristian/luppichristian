@@ -24,7 +24,7 @@
 - [GFX Support View](https://christian-luppi.itch.io/gfx-support-view):<br>
   Desktop utility for inspecting your system’s graphics api support in one place.
 
-## Projects:
+## Open Source Projects:
 - [GameTest](https://github.com/luppichristian/GameTest):<br>
   Record/replay testing framework for C/C++ games. Deterministic input capture and injection for automated testing.
 - [xccmeta](https://github.com/luppichristian/xccmeta):<br>
@@ -37,8 +37,6 @@
   A C library for serializing structured data across multiple formats (JSON, YAML, XML, etc.) with seamless conversion between them.
 - [nshader](https://github.com/luppichristian/nshader)<br>
   A custom portable shader format based on SDL3_shadercross compiled shaders.
-- [CryptoDashboardPlus](https://cryptodashboardplus.com/):<br>
-  A crypto dashboard to track wallets, exchanges, DeFi positions, and NFTs.
 - [Unnamed Private Game Engine]():<br>
   A custom-built C/C++ 2D pixel art game engine, written from scratch, with proprietary tooling and a strong focus on performance.
 - [claude_prompts](https://github.com/luppichristian/claude_prompts)<br>
