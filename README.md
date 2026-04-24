@@ -1,5 +1,3 @@
-## Hi, I'm Christian Luppi, an Italian developer born in 2004.
-
 ## Skills:
 - **Languages**:<br>
   C, C++, GLSL, HLSL, Python, JavaScript, SQL, HTML, TypeScript
