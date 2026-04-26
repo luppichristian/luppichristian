@@ -35,11 +35,5 @@
   A C library for serializing structured data across multiple formats (JSON, YAML, XML, etc.) with seamless conversion between them.
 - [nshader](https://github.com/luppichristian/nshader)<br>
   A custom portable shader format based on SDL3_shadercross compiled shaders.
-- [Unnamed Private Game Engine]():<br>
-  A custom-built C/C++ 2D pixel art game engine, written from scratch, with proprietary tooling and a strong focus on performance.
-- [claude_prompts](https://github.com/luppichristian/claude_prompts)<br>
-  Reusable prompts for Claude Code that i find useful.
-- [Gamedev Resources](https://github.com/luppichristian/gamedev_resources)<br>
-  Links to programming resources websites / articles that I found useful to learn low level gamedev from scratch in C/C++
 
 If you want to see more here's my youtube [channel](https://www.youtube.com/@christianluppi)!
