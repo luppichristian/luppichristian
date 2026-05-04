@@ -35,5 +35,7 @@
   A C library for serializing structured data across multiple formats (JSON, YAML, XML, etc.) with seamless conversion between them.
 - [nshader](https://github.com/luppichristian/nshader)<br>
   A custom portable shader format based on SDL3_shadercross compiled shaders.
+- [term.h](https://github.com/luppichristian/term.h)<br>
+  Header only single include library to create console based win32 and unix applications
 
 If you want to see more here's my youtube [channel](https://www.youtube.com/@christianluppi)!
