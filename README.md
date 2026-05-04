@@ -1,20 +1,24 @@
 ## Skills:
-- **Languages**:<br>
-  C, C++, GLSL, HLSL, Python, JavaScript, SQL, HTML, TypeScript
+- **Core Languages**:<br>
+  C, C++, Python, JavaScript, SQL, HTML, TypeScript
 - **Graphics Programming**:<br>
-  OpenGL, Vulkan, DirectX, SDL3 GPU, bgfx, Modern GPU pipelines, Shader development, Real-time rendering architecture
-- **Engine & Systems Programming**:<br>
-  Custom game engine development in C, Multithreaded systems, Low-level architecture, Memory and cache-efficient design
+  OpenGL, Vulkan, DirectX, SDL3 GPU, bgfx, Modern GPU pipelines, Real-time rendering architecture
+- **Game Programming**:<br>
+  Game engine developement with cross platform APIs such as SDL3, Raylib, SFML
+- **Shader Programming**:<br>
+  Fragment, vertex, geometry shaders written in GLSL, HLSL
+- **Systems Programming**:<br>
+  Low-level architecture, Memory, data structures and cache-efficient design
 - **Performance Engineering**:<br>
   SIMD optimization, CPU and GPU profiling, Frame time optimization, Data-oriented design
 - **Concurrency & Parallelism**:<br>
   Multithreaded programming, Task-based systems, Sync primitives, High-performance runtime systems
 - **Tools & Toolchains**:<br>
   RenderDoc, Tracy, CMake, Premake, Visual Studio, VS Code, Clang, GCC, MSVC, GPU debugging and profiling
+- **AI-Assisted Development**:<br>
+  Codegen pipelines, agent-assisted workflows, dev productivity systems, while keeping code quality and standards
 - **Web & Backend**:<br>
   Full-stack web development, Database design, Backend architecture
-- **AI-Assisted Development**:<br>
-  Code generation pipelines, Automated tooling, Agent-assisted workflows, Developer productivity systems
 
 ## Released Projects:
 - [Win32 Input Tester](https://christian-luppi.itch.io/win32-input-tester):<br>
