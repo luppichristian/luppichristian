@@ -31,8 +31,6 @@
   Record/replay testing framework for C/C++ games. Deterministic input capture and injection for automated testing.
 - [xccmeta](https://github.com/luppichristian/xccmeta):<br>
   A static C/C++ language parser designed for code preprocessing and build-step tooling.
-- [based-sdk](https://github.com/luppichristian/based-sdk):<br>
-  Low level C programming framework for general-computing/graphics/audio.
 - [libmath2](https://github.com/luppichristian/libmath2):<br>
   C/C++ math library for basic 2d and 3d operations.
 - [olib](https://github.com/luppichristian/olib):<br>
