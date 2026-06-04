@@ -15,8 +15,8 @@
 - [GFX Support View](https://christian-luppi.itch.io/gfx-support-view) -- *Desktop utility for inspecting your system’s graphics api support in one place*
 
 ## Open Source Projects:
-- [GameTest](https://github.com/luppichristian/GameTest) -- *Record/replay testing framework for C/C++ games. Deterministic input capture and injection for automated testing*
 - [bbs](https://github.com/luppichristian/bbs) -- *Better Build System for C/C++, a build frontend system for CMake*
+- [GameTest](https://github.com/luppichristian/GameTest) -- *Record/replay testing framework for C/C++ games. Deterministic input capture and injection for automated testing*
 - [xccmeta](https://github.com/luppichristian/xccmeta) -- *A static C/C++ language parser designed for code preprocessing and build-step tooling*
 - [libmath2](https://github.com/luppichristian/libmath2) -- *C/C++ math library for basic 2d and 3d operations*
 - [olib](https://github.com/luppichristian/olib) -- *A C library for serializing data across multiple formats (JSON, YAML, XML, etc.)*
