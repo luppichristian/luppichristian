@@ -1,5 +1,5 @@
 ## Skills:
-- **Languages** -- *C, C++, Java, Shell, Python, JavaScript, SQL, HTML, TypeScript*
+- **Languages** -- *C, C++, CUDA, Java, Shell, Python, JavaScript, SQL, HTML, TypeScript*
 - **GPU Rendering** -- *OpenGL, Vulkan, DirectX, SDL3 GPU, bgfx, Modern GPU pipelines, Real-time rendering architecture*
 - **Game-Engine Development** -- *Game engine developement with cross platform APIs such as SDL3, Raylib, SFML*
 - **Shader Programming** -- *Fragment, vertex, geometry shaders written in GLSL, HLSL*
