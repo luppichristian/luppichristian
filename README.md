@@ -1,5 +1,5 @@
 ## Open Source:
-- [OpenRealm](https://github.com/luppichristian/OpenRealm) -- *Decentralized P2P multiplayer voxel world*
+- [OpenRealm](https://github.com/luppichristian/OpenRealm) -- *Decentralized P2P multiplayer voxel world, backed by ethereum blockchains*
 - [bbs](https://github.com/luppichristian/bbs) -- *Better Build System for C/C++, a build frontend system for CMake*
 - [GameTest](https://github.com/luppichristian/GameTest) -- *Record/replay testing framework for C/C++ games. Deterministic input capture and injection for automated testing*
 - [G3D](https://github.com/luppichristian/C3D) -- *A low level graphics api written from scratch in CUDA for fun*
