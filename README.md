@@ -8,6 +8,7 @@
 - [olib](https://github.com/luppichristian/olib) -- *A C library for serializing data across multiple formats (JSON, YAML, XML, etc.)*
 - [nshader](https://github.com/luppichristian/nshader) -- *A custom portable shader format based on SDL3_shadercross compiled shaders*
 - [term.h](https://github.com/luppichristian/term.h) -- *Header only single include library to create console based win32 and unix applications*
+- [SimplePP](https://github.com/luppichristian/SimplePP) -- *A minimal C preprocessor written in C using Flex (Lex) and GNU Bison*
 
 ## Products:
 - [Win32 Input Tester](https://christian-luppi.itch.io/win32-input-tester): -- *Diagnostics tool for win32 that lets you see how input is actually delivered to an app*
